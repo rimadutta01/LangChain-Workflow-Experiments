@@ -12,15 +12,15 @@ A collection of experiments and utility applications built using Large Language 
 - LLM experimentation and testing
 
 ## Project Structure
-├── 1.LLMs/
-├── Sample.py
-├── conditionalChain.py
-├── paragraph_conditionalchain.py
-├── promptui.py
-├── requirement.txt
-├── streamlit_classifier_chain.py
-├── token_count.py
-├── .gitignore
+- 1.LLMs/
+- Sample.py
+- conditionalChain.py
+- paragraph_conditionalchain.py
+- promptui.py
+- requirement.txt
+- streamlit_classifier_chain.py
+- token_count.py
+- .gitignore
 
 
 ## Technologies Used
